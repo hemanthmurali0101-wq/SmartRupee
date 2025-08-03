@@ -61,6 +61,10 @@ features {
         border-radius: 8px;
         margin-right: 70px;
         }
+ .dropdown {
+      position: relative;
+    }
+
 .dropdown-content {
       display: none;
       position: absolute;
