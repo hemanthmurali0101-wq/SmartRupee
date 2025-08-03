@@ -12,6 +12,7 @@ body {
 }
 
 .hero h1 {
+  background-colour: #eeffc2;
   font-size: 5em;
   font-weight: 400;
   margin-bottom: 10px;
