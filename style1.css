@@ -7,12 +7,12 @@ body {
   text-align: center;
 }
 .hero {
+  colour: #eeffc2;
   padding: 60px 20px;
   text-align: center;
 }
 
 .hero h1 {
-  background-colour: #eeffc2;
   font-size: 5em;
   font-weight: 400;
   margin-bottom: 10px;
