@@ -8,6 +8,7 @@
    <section class="hero">
       <h1>SmartRupee</h1>
    </section>
+   
    <nav>
       <a></a> <div class="dropdown"><button class="dropbtn">Articles</button>
          <div class="dropdown-content" id="dropdownContent">
@@ -19,6 +20,7 @@
       <a href="about.html">About</a> |
       <a href="contact.html">Contact</a>
    </nav>
+   
    <section class="features">
     <div class="feature">
        <img src="your-image-url.jpg" alt="Feature Image">
@@ -27,6 +29,20 @@
       <p>Optimized for speed and performance.</p>
        </div>
     </div>
+      
+   <script>
+    const dropbtn = document.querySelector('.dropbtn');
+    const dropdown = document.getElementById('dropdownContent');
+
+    dropbtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', function () {
+      dropdown.style.display = 'none';
+    });
+  </script>
   
   <p>This is the homepage.</p>
    
