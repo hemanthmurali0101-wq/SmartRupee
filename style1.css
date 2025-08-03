@@ -89,6 +89,14 @@ features {
         border-radius: 8px;
         margin-right: 70px;
         }
+ footer {
+      background: #182b0aff;
+      font-family: 'Courier New', Courier, monospace;
+      color: white;
+      text-align: left;
+      padding: 15px;
+      margin-top: 40px;
+    }
 
 h1 {
   color: #0077cc;
