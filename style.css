@@ -7,10 +7,7 @@ body {
   padding: 20px;
   text-align: center;
 }
-.hero {
-  background: url('banner.jpg') no-repeat center center;
-  background-size: cover;
-  color: white;
+
 }
 
 /* Navigation bar styling */
