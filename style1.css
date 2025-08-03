@@ -18,6 +18,13 @@ body {
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
+features {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      padding: 40px 20px;
+      background: #0b5dafff;
+    }
 
 /* Navigation bar styling */
 nav {
