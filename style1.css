@@ -25,9 +25,9 @@ nav {
   margin-bottom: 20px;
 }
 nav a, .dropbtn {
-      color: white;
+      color: black;
       font-weight: bold;
-      text-decoration: none;
+      text-decoration: underline;
       background: none;
       border: none;
       cursor: pointer;
