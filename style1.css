@@ -41,9 +41,9 @@ features {
       padding: 40px 20px;
       background: #0b5dafff;
     }
-
- .feature {
+.feature {
       max-width: 1000px;
+      allign-items: center;
       background: white;
       margin: 10px;
       padding: 20px;
