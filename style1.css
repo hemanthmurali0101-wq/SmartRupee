@@ -24,17 +24,7 @@ nav {
   padding: 10px;
   margin-bottom: 20px;
 }
-nav a {
-  color: black;
-  text-decoration: none;
-  margin-right: 15px;
-  font-weight: bold;
-}
-
-nav a:hover {
-  text-decoration: underline;
-}
- nav a, .dropbtn {
+nav a, .dropbtn {
       color: white;
       font-weight: bold;
       text-decoration: none;
@@ -43,6 +33,11 @@ nav a:hover {
       cursor: pointer;
       font-size: 16px;
     }
+
+nav a:hover {
+  text-decoration: underline;
+}
+ 
 features {
       display: flex;
       flex-wrap: wrap;
