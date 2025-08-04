@@ -64,17 +64,11 @@ nav {
 
 /* Headings */
 h1 {
-  font-family: Arial, sans-serif;
-  font-weight: bold;
-  font-size: 70px;
-  padding: 50px;
-  color: #213320;
+  color: #0077cc;
 }
 
 /* Paragraphs */
 p {
-  font-family: Arial, sans-serif;
   font-size: 1.1em;
   line-height: 1.6;
-  text-allign: left;
 }
