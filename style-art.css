@@ -64,10 +64,16 @@ nav {
 
 h1 {
   color: #0077cc;
+  font-family: 'Arial', serif; /* ← Change to your desired font */
+  font-weight: 600; /* semi-bold */
+  font-size: 32px;  /* or any size you prefer */
+  text-align: center;
+  padding: 50px;
 }
 
 /* Paragraphs */
 p {
-  font-size: 1.1em;
+  font-family: 'Segoe UI', sans-serif; /* Or another font like 'Georgia', 'Roboto' */
+  font-size: 18px;
   line-height: 1.6;
 }
