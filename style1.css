@@ -69,7 +69,7 @@ body {
 .features {
       display: flex;
       flex-wrap: wrap;
-      padding: 40px 700px;
+      padding: 40px 20px;
       background: #f9f9f9;
       justify-content: center;
     }
