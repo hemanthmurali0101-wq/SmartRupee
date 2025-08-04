@@ -71,7 +71,6 @@ body {
       width: 1500px;
       box-sizing: border-box;
       flex-wrap: wrap;
-      padding: 20px 20px;
       background: #f9f9f9;
       justify-content: center;
     }
@@ -82,7 +81,6 @@ body {
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-      justify-content: center;
     }
 .feature img {
         width: 200px;
