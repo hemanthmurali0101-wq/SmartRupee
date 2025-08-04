@@ -72,6 +72,8 @@ body {
       flex-wrap: wrap;
       padding: 40px 700px;
       background: #f9f9f9;
+      justify-content: center;
+      allign-items: center;
     }
 .feature {
       allign-items: center;
