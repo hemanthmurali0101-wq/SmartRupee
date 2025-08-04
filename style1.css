@@ -68,13 +68,13 @@ body {
  
 .features {
       display: flex;
+      max-width: 1000px;
       flex-wrap: wrap;
       justify-content: center;
       padding: 40px 100px;
       background: #f9f9f9;
     }
 .feature {
-      max-width: 1000px;
       allign-items: center;
       justify-contents: center;
       background: white;
