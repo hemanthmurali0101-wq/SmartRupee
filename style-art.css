@@ -65,6 +65,11 @@ nav {
 /* Headings */
 h1 {
   color: #213320;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+  padding: 50px;
 }
 
 /* Paragraphs */
