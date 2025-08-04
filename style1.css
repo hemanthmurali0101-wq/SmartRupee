@@ -76,8 +76,9 @@ body {
 .feature {
       allign-items: center;
       justify-contents: center;
+      display: flex;
       background: white;
-      margin: 10px;
+      margin: 10px auto;
       padding: 20px;
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
@@ -92,6 +93,7 @@ body {
         allign-items: left;
         }
 .feature-text {
+  flex: 1;
   allign-items: right;
 }
 .feature-link {
