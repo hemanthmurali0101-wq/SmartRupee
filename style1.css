@@ -89,6 +89,12 @@ features {
         border-radius: 8px;
         margin-right: 70px;
         }
+.feature-link {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+}
+
  footer {
       background: #182b0aff;
       font-family: 'Courier New', Courier, monospace;
