@@ -5,7 +5,6 @@ body {
   color: #333;
   margin: 0;
   padding: 20px;
-  text-allign: left;
 }
 
 nav {
@@ -77,4 +76,5 @@ p {
   font-family: Arial, sans-serif;
   font-size: 1.1em;
   line-height: 1.6;
+  text-allign: left;
 }
