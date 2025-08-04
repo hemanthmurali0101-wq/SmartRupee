@@ -91,10 +91,12 @@ body {
         border-radius: 8px;
         margin-right: 70px;
         allign-items: left;
+        justify-contents: left;
         }
 .feature-text {
   flex: 1;
-  allign-items: right;
+  allign-items: center;
+  justify-contents: right;
 }
 .feature-link {
   text-decoration: none;
