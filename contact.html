@@ -21,5 +21,20 @@
   
   <h1>Contact Me</h1>
   <p>You can reach me at: <a href="mailto:example@email.com">example@email.com</a></p>
+
+<script>
+    const dropbtn = document.querySelector('.dropbtn');
+    const dropdown = document.getElementById('dropdownContent');
+
+    dropbtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', function () {
+      dropdown.style.display = 'none';
+    });
+  </script>
+  
 </body>
 </html>
