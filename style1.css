@@ -90,6 +90,7 @@ body {
         height: 200px;
         border-radius: 8px;
         margin-right: 70px;
+        allign-items: left;
         }
 .feature-link {
   text-decoration: none;
