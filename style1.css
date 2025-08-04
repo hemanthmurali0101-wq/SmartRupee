@@ -92,6 +92,10 @@ body {
         margin-right: 70px;
         allign-items: left;
         }
+.feature-text {
+  allign-items: right;
+  flex: 1; /* allows the text to fill the remaining space */
+}
 .feature-link {
   text-decoration: none;
   color: inherit;
