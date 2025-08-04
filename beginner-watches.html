@@ -23,5 +23,20 @@
   <p>
     This article explores how modern luxury has evolved into a psychological experience, and how we can navigate it with clarity and intention.
   </p>
+
+<script>
+    const dropbtn = document.querySelector('.dropbtn');
+    const dropdown = document.getElementById('dropdownContent');
+
+    dropbtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', function () {
+      dropdown.style.display = 'none';
+    });
+  </script>
+  
 </body>
 </html>
