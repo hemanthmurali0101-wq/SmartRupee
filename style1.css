@@ -68,6 +68,9 @@ body {
  
 .features {
       display: flex;
+      width: 100%;
+      max-width: 100%;
+      box-sizing: border-box;
       flex-wrap: wrap;
       padding: 40px 20px;
       background: #f9f9f9;
