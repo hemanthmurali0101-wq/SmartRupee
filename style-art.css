@@ -67,7 +67,6 @@ h1 {
   font-family: 'Arial', serif; /* ← Change to your desired font */
   font-weight: 600; /* semi-bold */
   font-size: 32px;  /* or any size you prefer */
-  text-align: center;
   padding: 50px;
 }
 
