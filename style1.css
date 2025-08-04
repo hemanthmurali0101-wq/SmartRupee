@@ -76,6 +76,7 @@ features {
 .feature {
       max-width: 1000px;
       allign-items: center;
+      justify-contents: center;
       background: white;
       margin: 10px;
       padding: 20px;
