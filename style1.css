@@ -73,10 +73,10 @@ body {
       padding: 40px 700px;
       background: #f9f9f9;
       justify-content: center;
-      allign-items: center;
+      align-items: center;
     }
 .feature {
-      allign-items: center;
+      align-items: center;
       justify-contents: center;
       display: flex;
       background: white;
@@ -92,12 +92,12 @@ body {
         height: 100px;
         border-radius: 8px;
         margin-right: 70px;
-        allign-items: left;
+        align-items: left;
         justify-contents: left;
         }
 .feature-text {
   flex: 1;
-  allign-items: center;
+  align-items: center;
   justify-contents: right;
 }
 .feature-link {
