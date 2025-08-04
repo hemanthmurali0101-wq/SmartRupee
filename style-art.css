@@ -66,14 +66,14 @@ h1 {
   color: #213320;
   font-family: 'Arial', sans-serif;
   font-weight: bold;
-  font-size: 35px;
+  font-size: 100px;
   text-align: center;
   padding: 50px;
 }
 
 /* Paragraphs */
 p {
-  font-size: 20px;
+  font-size: 50px;
   line-height: 1.6;
   text-align: center;
 }
