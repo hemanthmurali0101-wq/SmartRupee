@@ -62,19 +62,12 @@ nav {
       margin-top: 40px;
     }
 
-/* Headings */
 h1 {
-  color: #213320;
-  font-family: 'Arial', sans-serif; /* ← Change to your desired font */
-  font-weight: 600; /* semi-bold */
-  font-size: 32px;  /* or any size you prefer */
-  text-align: center;
-  padding: 50px;
+  color: #0077cc;
 }
 
 /* Paragraphs */
 p {
-  font-family: 'Segoe UI', sans-serif; /* Or another font like 'Georgia', 'Roboto' */
-  font-size: 18px;
+  font-size: 1.1em;
   line-height: 1.6;
 }
