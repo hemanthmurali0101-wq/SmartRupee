@@ -85,8 +85,8 @@ body {
       gap: 10px;
     }
 .feature img {
-        width: 100px;
-        height: 100px;
+        width: 200px;
+        height: 200px;
         border-radius: 8px;
         margin-right: 5px;
         align-items: left;
