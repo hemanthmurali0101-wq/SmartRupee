@@ -77,7 +77,7 @@ body {
     }
 .feature {
       align-items: center;
-      justify-contents: center;
+      justify-content: center;
       display: flex;
       background: white;
       margin: 10px auto;
@@ -93,12 +93,12 @@ body {
         border-radius: 8px;
         margin-right: 70px;
         align-items: left;
-        justify-contents: left;
+        justify-content: left;
         }
 .feature-text {
   flex: 1;
   align-items: center;
-  justify-contents: right;
+  justify-content: right;
 }
 .feature-link {
   text-decoration: none;
