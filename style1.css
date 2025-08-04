@@ -125,7 +125,9 @@ footer p {
   height: 30px;
   margin: 10px;
   vertical-align: right;
+  text-decoration: none;
   transition: transform 0.3s ease;
+  color: white;
 }
 
 .social-icon:hover {
