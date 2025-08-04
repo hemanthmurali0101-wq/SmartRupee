@@ -7,23 +7,51 @@ body {
   padding: 20px;
 }
 
-/* Navigation bar styling */
 nav {
-  background-color: #0077cc;
-  padding: 10px;
-  margin-bottom: 20px;
-}
+      background-color: #182b0aff;
+      display: flex;
+      align-items: center;
+      padding: 10px 20px;
+      gap: 20px;
+    }
 
-nav a {
-  color: white;
-  text-decoration: none;
-  margin-right: 15px;
-  font-weight: bold;
-}
+    nav a, .dropbtn {
+      color: white;
+      font-weight: bold;
+      text-decoration: none;
+      background: none;
+      border: none;
+      cursor: pointer;
+      font-size: 16px;
+    }
 
-nav a:hover {
-  text-decoration: underline;
-}
+    .dropdown {
+      position: relative;
+    }
+
+    .dropdown-content {
+      display: none;
+      position: absolute;
+      background-color: #253012;
+      min-width: 160px;
+      z-index: 1;
+      top: 100%;
+      left: 0;
+      border-radius: 4px;
+      box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
+    }
+
+    .dropdown-content a {
+      display: block;
+      padding: 10px;
+      color: white;
+      text-decoration: none;
+    }
+
+    .dropdown-content a:hover {
+      background-color: #3b4a21;
+    }
+
 
 /* Headings */
 h1 {
