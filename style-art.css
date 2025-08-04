@@ -59,6 +59,10 @@ nav {
       padding: 15px;
       margin-top: 40px;
     }
+footer p {
+  margin-bottom: 10px;
+  font-size: 1.1em;
+}
 
 .article-image {
   width: 100%;
