@@ -65,9 +65,9 @@ nav {
 /* Headings */
 h1 {
   color: #213320;
-  font-family: Arial, sans-serif;
+  font-family: 'Arial', sans-serif;
   font-weight: bold;
-  font-size: 1.1em;
+  font-size: 35px;
   text-align: center;
   padding: 50px;
 }
