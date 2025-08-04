@@ -93,7 +93,7 @@ body {
         }
 .feature-text {
   flex: 1;
-  margin-left: 20px;
+  margin-right: 20px;
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
   justify-content: right;
