@@ -97,6 +97,13 @@ p {
   font-size: 30px;
   text-align: center;
 }
+
+p2{
+  font-family: 'Merriweather', serif;
+  font-weight: bold;
+  font-size: 38px;
+}
+
 .p1{
   background-color: #f1ffc9;
 }
