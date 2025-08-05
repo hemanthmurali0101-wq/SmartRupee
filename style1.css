@@ -78,7 +78,7 @@ body {
     }
 .feature {
       width: 1200px;
-      display: absolute;
+      display: flex;
       background-color: #f1ffc9;
       padding: 20px;
       border-radius: 10px;
