@@ -166,7 +166,8 @@ h {
 p1{
   font-size: 1em;
   font-weight: 400;
-  margin-bottom: 10px;
+  margin-bottom: 15px;
+  margin-top: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
