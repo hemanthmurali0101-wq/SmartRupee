@@ -172,3 +172,7 @@ p1{
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
+.p2{
+  align-items: center;
+  test-align: left;
+}
