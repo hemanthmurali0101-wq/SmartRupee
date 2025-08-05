@@ -112,6 +112,7 @@ p {
 .p1{
   display: flex;
   justify-content: center;
+  text-align: center;
   background-color: #f1ffc9;
   margin-bottom: 10px;
   width: 700px;
