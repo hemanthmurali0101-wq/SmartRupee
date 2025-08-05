@@ -70,11 +70,9 @@ body {
  
 .features {
       display: flex;
-      width: 1500px;
-      box-sizing: border-box;
-      flex-wrap: wrap;
       background: #f9f9f9;
       justify-content: center;
+      padding: 40px 20px;
     }
 .feature {
       width: 1200px;
@@ -88,7 +86,7 @@ body {
         width: 200px;
         height: 200px;
         border-radius: 8px;
-        margin-right: 5px;
+        margin-right: 20px;
         align-items: left;
         justify-content: left;
         }
