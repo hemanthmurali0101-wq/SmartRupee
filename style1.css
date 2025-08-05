@@ -51,8 +51,6 @@ body {
       background-color: #253012;
       min-width: 160px;
       z-index: 1;
-      top: 100%;
-      left: 0;
       border-radius: 4px;
       box-shadow: 0px 4px 8px rgba(0,0,0,0.2);
     }
