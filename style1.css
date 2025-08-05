@@ -170,6 +170,12 @@ p1{
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
+
+.watch-content{
+  background: #f9f9f9;
+      justify-content: center;
+}
+
 .p2{
   align-items: center;
   text-align: left;
