@@ -109,6 +109,8 @@ p {
 }
 
 .p1{
+  display: flex;
+  justify-content: center;
   background-color: #f1ffc9;
   margin-bottom: 10px;
 }
