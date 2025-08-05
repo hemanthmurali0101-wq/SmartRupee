@@ -142,7 +142,11 @@ footer p {
 }
 
 h2{
-  color: white;
+  color: #182b0aff;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+  font-weight: 200;
+  font-size: 38px;
   text-align: center;
 }
 
