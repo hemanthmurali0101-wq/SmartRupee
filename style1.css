@@ -155,6 +155,7 @@ p {
   font-size: 1.1em;
   line-height: 1.6;
   margin-bottom: 15px;
+  allign-text: left;
 }
 h {
   font-size: 2em;
