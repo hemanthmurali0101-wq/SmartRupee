@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 .hero {
-  background-colour: #eeffc2;
+  background-color: #eeffc2;
   padding: 60px 20px;
   text-align: center;
 }
@@ -81,7 +81,7 @@ body {
       align-items: center;
       background-color: #f1ffc9;
       padding: 20px;
-      margin-bottom: 10px
+      margin-bottom: 10px;
       border-radius: 10px;
       box-shadow: 0 2px 5px rgba(0,0,0,0.1);
     }
