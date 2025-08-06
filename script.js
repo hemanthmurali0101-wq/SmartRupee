@@ -5,7 +5,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
   dropbtn.addEventListener('click', function (e) {
     e.stopPropagation();
-    dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+    dropdown.style.display = dropdown.style.display === 'block';
+    dropdown.style.display = isVisible ? 'none' : 'block';
   });
 
   document.addEventListener('click', function () {
