@@ -159,8 +159,14 @@ footer p {
   border-radius: 8px;
 }
 
+.content{
+  justyfy-content: center;
+  align-items: center;
+  width: 1000px;
+  margin: 0px auto;
+  
 /* Paragraphs */
-p {
+.content p {
   font-size: 1.1em;
   line-height: 1.6;
   margin-bottom: 15px;
