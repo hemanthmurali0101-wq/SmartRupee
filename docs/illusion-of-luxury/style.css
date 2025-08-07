@@ -163,6 +163,7 @@ p {
   line-height: 1.6;
   margin-bottom: 15px;
   align-text: left;
+  width: 1000px;
 }
 h {
   font-size: 2em;
@@ -170,22 +171,12 @@ h {
   margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
+  width: 1000px;
 }
 p1{
   font-size: 1.6em;
   font-weight: 400;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-}
-
-.watch-content{
-  background: #f9f9f9;
-      justify-content: center;
-}
-
-.p2{
-  align-items: center;
-  text-align: left;
-  margin-bottom: 15px;
-  margin-top: 15px;
+  width: 1000px;
 }
