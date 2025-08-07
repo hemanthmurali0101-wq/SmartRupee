@@ -84,14 +84,14 @@ nav a, .dropbtn {
 
 .button-link {
   display: inline-block;
-  padding: 12px 24px;
+  padding: 0px;
   background-color: #007bff;
   color: white;
   text-decoration: none;
   font-size: 16px;
   font-family: 'Merriweather', serif;
   border: none;
-  border-radius: 6px;
+  border-radius: 5px;
   transition: background-color 0.3s ease, transform 0.2s ease;
 }
 
