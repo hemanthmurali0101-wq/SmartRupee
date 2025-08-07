@@ -124,7 +124,7 @@ p {
   align-items: center;
   background-color: #f1ffc9;
   margin: 10px auto; /* This centers the box horizontally */
-  width: 700px;
+  width: 1000px;
   padding: 5px; /* Optional for spacing inside */
   border-radius: 8px; /* Optional for rounded corners */
   box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1); /* Optional for visual depth */
