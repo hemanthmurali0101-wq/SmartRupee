@@ -9,6 +9,22 @@ body {
   align-items: center;
 }
 
+.hero {
+  background-color: #f9f9f9;
+  justify-content: center;
+  align-items:center;
+  margin: 0 auto;
+  width: 1000px;
+}
+
+.hero h1 {
+  font-size: 55px;
+  font-weight: 400;
+  margin: 0 auto;
+  color: #182b0aff;
+  font-family: 'Merriweather', serif;
+}
+
 nav {
   position: sticky;
   top: 0;
