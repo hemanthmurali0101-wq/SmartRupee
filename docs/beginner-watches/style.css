@@ -136,6 +136,8 @@ footer p {
   text-align: left;
 }
 h1 {
+  display: flex;
+  align-items: center;
   font-size: 2em;
   font-weight: 400;
   color: #182b0aff;
