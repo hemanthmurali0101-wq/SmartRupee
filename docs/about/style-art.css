@@ -93,7 +93,7 @@ footer p {
 }
 
 /* Headings */
-g {
+h1 {
   color: #213320;
   font-family: 'Merriweather', serif;
   font-weight: bold;
@@ -104,7 +104,7 @@ g {
 }
 
 /* Paragraphs */
-h1 {
+p {
   font-size: 30px;
   text-align: left;
   justify-content: center;
