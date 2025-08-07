@@ -7,7 +7,7 @@ body {
   text-align: center;
 }
 .hero {
-  background-color: #eeffc2;
+  background-color: #f9f9f9;
   padding: 60px 20px;
   text-align: center;
 }
@@ -16,7 +16,7 @@ body {
   font-size: 5em;
   font-weight: 400;
   margin-bottom: 10px;
-  color: #f9f9f9;
+  color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
 
