@@ -114,6 +114,8 @@ footer p {
 .content{
   width: 1000px;
   margin: 0px auto;
+  justify-contents: center;
+  align-items: center;
 }
 
 /* Paragraphs */
@@ -127,7 +129,6 @@ footer p {
 
 .content g {
   display: flex;
-  align-items: center;
   font-size: 2em;
   font-weight: 400;
   color: #182b0aff;
