@@ -125,7 +125,7 @@ footer p {
   margin: 0px auto;
 }
 
-g {
+.content g {
   display: flex;
   align-items: center;
   font-size: 2em;
