@@ -2,7 +2,7 @@ body {
   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   background-color: #f9f9f9;
   color: #4c6b23;
-  margin: 0;
+  margin: 0 auto;
   padding: 20px;
   text-align: center;
 }
@@ -15,7 +15,7 @@ body {
 .hero h1 {
   font-size: 5em;
   font-weight: 400;
-  margin-bottom: 10px;
+  margin: 10px auto;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
@@ -28,8 +28,7 @@ body {
   align-items: center;
   padding: 10px 20px;
   gap: 20px;
-  margin-bottom: 20px;
-  margin-top: 20px;
+  margin: 0px auto;
   justify-content: left;
  
     }
@@ -74,62 +73,17 @@ nav a, .dropbtn {
       background-color: #3b4a21;
     }
  
-.features {
-      display: flex;
-      background: #f9f9f9;
-      justify-content: center;
-    }
-.feature {
-      width: 1200px;
-      display: flex;
-      align-items: center;
-      background-color: #f1ffc9;
-      padding: 20px;
-      margin-bottom: 10px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-.feature img {
-        width: 200px;
-        height: 200px;
-        border-radius: 8px;
-        margin-right: 20px;
-        align-items: left;
-        justify-content: left;
-        }
-.feature-text {
-  margin-left: 50px;
-  align-items: center;
-  font-family: 'Courier New', Courier, monospace;
-  justify-content: right;
-}
-
-.feature-text h2{
-  color: #182b0aff;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-  font-weight: 200;
-  font-size: 38px;
-  text-align: center;
-}
-
-.feature-link {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
  footer {
       background: #182b0aff;
       font-family: 'Courier New', Courier, monospace;
       color: white;
       text-align: left;
-      padding: 15px;
-      margin-top: 40px;
+      padding: 0px;
+      margin: 15px auto;
     }
 
 footer p {
-  margin-bottom: 10px;
+  margin: 10px auto;
   font-size: 1.1em;
 }
 
@@ -161,6 +115,8 @@ p {
   line-height: 1.6;
   margin-bottom: 15px;
   align-text: left;
+  margin: 0px auto;
+  width: 700px;  
 }
 h {
   font-size: 2em;
@@ -168,18 +124,22 @@ h {
   margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
+  margin: 10px auto;
+  width: 700px;  
 }
 p1{
   font-size: 1.6em;
   font-weight: 400;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
+  margin: 0px auto;
+  width: 700px;  
 }
 
 .watch-content{
   background: #f9f9f9;
   justify-content: center;
-  margin: 0 auto;
+  margin: 10px auto;
   width: 700px;  
 }
 
@@ -188,4 +148,6 @@ p1{
   text-align: left;
   margin-bottom: 15px;
   margin-top: 15px;
+  margin: 10px auto;
+  width: 700px;  
 }
