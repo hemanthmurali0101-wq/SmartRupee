@@ -1,25 +1,27 @@
 body {
-  background-color: #f9f9f9;
-  color: #4c6b23;
-  margin: 0 auto;
-  padding: 20px;
-  text-align: center;
+  margin: 0;
+  font-family: 'Merriweather', serif;
+  background-color: #f4f4f4;
 }
 
+/* Hero section full-screen and centered */
 .hero {
   display: flex;
-  background-color: #f9f9f9;
+  align-items: center;
   justify-content: center;
-  align-items:center;
-  width: 1000px;
+  height: 100vh; /* Full height of viewport */
+  padding: 20px;
+  text-align: center;
+  background-color: #ffffff; /* Optional: light background */
+  box-sizing: border-box;
 }
 
+/* Heading styles */
 .hero h1 {
-  font-size: 55px;
-  font-weight: 400;
-  margin: 0 auto;
-  color: #182b0aff;
-  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  color: #222;
+  max-width: 800px;
+  line-height: 1.4;
 }
 
 
