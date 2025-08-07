@@ -20,24 +20,6 @@ nav {
   z-index: 1000; /* stays above all content */
     }
 
-.nav-left, .nav-right {
-  display: flex;
-  align-items: center;
-  gap: 15px;
-}
-
-/* Responsive nav */
-@media (max-width: 768px) {
-  nav {
-    flex-direction: column;
-    align-items: flex-start;
-  }
-
-  .nav-left, .nav-right {
-    flex-direction: column;
-    align-items: flex-start;
-    width: 100%;
-  }
 
 
     nav a, .dropbtn {
