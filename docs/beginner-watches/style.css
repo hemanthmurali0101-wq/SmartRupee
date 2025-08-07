@@ -128,7 +128,6 @@ footer p {
   margin-bottom: 15px;
   text-align: left;
   margin: 0px auto;
-  width: 700px;  
 }
 
 .content h {
@@ -136,9 +135,7 @@ footer p {
   font-weight: 400;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 15px auto;
-  width: 700px;  
-  padding: 20px;
+  margin: 10px auto;
   text-align: left;
 }
 p1{
