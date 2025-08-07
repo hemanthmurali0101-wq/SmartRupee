@@ -22,7 +22,6 @@ body {
 }
 
  nav {
-  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
   position: sticky;
   top: 0;
   background-color: #182b0aff;
@@ -38,6 +37,7 @@ body {
     }
 
 nav a, .dropbtn {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       color: white;
       font-weight: bold;
       text-decoration: none;
