@@ -16,7 +16,7 @@ body {
 .hero h1 {
   font-size: 60px;
   font-weight: 400;
-  margin: 10 auto;
+  margin: 0 auto;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
 }
