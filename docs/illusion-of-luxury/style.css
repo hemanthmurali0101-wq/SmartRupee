@@ -170,9 +170,10 @@ footer p {
   align-text: left;
   width: 1000px;
 }
-h {
+.content h {
   font-size: 2em;
   font-weight: 400;
+  text-align: center;
   margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
