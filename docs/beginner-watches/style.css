@@ -76,18 +76,18 @@ nav a, .dropbtn {
       background-color: #3b4a21;
     }
 
-footer {
+ footer {
       background: #182b0aff;
       font-family: 'Courier New', Courier, monospace;
       color: white;
       text-align: left;
       padding: 15px;
-      margin: 0px auto;
-      margin-top: 40px;
+      margin-top: 40px auto;
+      margin: 0 auto;
     }
 
 footer p {
-  margin-bottom: 10px;
+  margin-bottom: 10px auto;
   font-size: 1.1em;
 }
 
@@ -95,8 +95,7 @@ footer p {
   width: 30px;
   height: 30px;
   margin: 10px;
-  justify-content: center;
-  align-items: right;
+  vertical-align: right;
   text-decoration: none;
   transition: transform 0.3s ease;
 }
