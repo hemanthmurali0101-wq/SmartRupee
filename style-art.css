@@ -22,9 +22,7 @@ nav {
  
     }
 
-
-
-    nav a, .dropbtn {
+nav a, .dropbtn {
       color: white;
       font-weight: bold;
       text-decoration: none;
