@@ -47,6 +47,7 @@ nav a, .dropbtn {
     .dropdown {
       position: relative;
       display: inline-block;
+      left: 0;  
     }
 
     .dropdown-content {
