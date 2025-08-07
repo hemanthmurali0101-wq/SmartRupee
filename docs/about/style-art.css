@@ -98,7 +98,7 @@ h1 {
   font-family: 'Merriweather', serif;
   font-weight: bold;
   font-size: 55px;
-  text-align: center;
+  text-align: left;
   padding: 30px;
   text-decoration: underline;
 }
@@ -124,5 +124,4 @@ p {
   background-color: #f1ffc9;
   margin-top: 10px;
   margin-bottom: 10px;
-  width: 700px;
 }
