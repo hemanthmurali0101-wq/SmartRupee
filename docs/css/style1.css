@@ -101,7 +101,8 @@ nav a, .dropbtn {
         justify-content: left;
         }
 .feature-text {
-  margin-left: 50px auto;
+  margin-left: 20px auto;
+  width: 500px;
   align-items: center;
   font-family: 'Courier New', Courier, monospace;
   justify-content: right;
