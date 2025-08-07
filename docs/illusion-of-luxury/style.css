@@ -75,10 +75,17 @@ nav a, .dropbtn {
       background-color: #3b4a21;
     }
 
+.button-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh; /* full viewport height */
+}
+
 .button-link {
   display: inline-block;
   padding: 12px 24px;
-  background-color: #007bff; /* Blue color */
+  background-color: #007bff;
   color: white;
   text-decoration: none;
   font-size: 16px;
@@ -89,12 +96,12 @@ nav a, .dropbtn {
 }
 
 .button-link:hover {
-  background-color: #0056b3; /* Darker blue on hover */
+  background-color: #0056b3;
   transform: translateY(-2px);
 }
 
 .button-link:active {
-  background-color: #004080; /* Even darker on click */
+  background-color: #004080;
   transform: translateY(0);
 }
 
