@@ -16,7 +16,10 @@ nav {
   align-items: center;
   padding: 10px 20px;
   gap: 20px;
-  justify-conetent: left;
+  margin-bottom: 20px;
+  margin-top: 20px;
+  justify-content: left;
+ 
     }
 
 
