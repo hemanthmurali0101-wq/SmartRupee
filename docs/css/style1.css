@@ -95,8 +95,8 @@ nav a, .dropbtn {
 .feature img {
         width: 200px;
         height: 200px;
-        border-radius: 8px auto;
-        margin-right: 20px auto;
+        border-radius: 8px ;
+        margin-right: 20px ;
         align-items: left;
         justify-content: left;
         }
