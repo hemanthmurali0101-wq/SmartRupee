@@ -146,11 +146,9 @@ p1{
 .watch-content{
   background: #f9f9f9;
   justify-content: center;
+  text-align: left;
   margin: 10px auto;
   width: 700px;  
   padding: 20px;
 }
-.p2{
-  justify-content: center;
-  text-align: left;
-}
+
