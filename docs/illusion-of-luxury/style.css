@@ -79,12 +79,11 @@ nav a, .dropbtn {
   display: flex;
   justify-content: center;
   align-items: center;
-  height: 100vh; /* full viewport height */
 }
 
 .button-link {
   display: inline-block;
-  padding: 0px;
+  padding: 16px;
   background-color: #007bff;
   color: white;
   text-decoration: none;
