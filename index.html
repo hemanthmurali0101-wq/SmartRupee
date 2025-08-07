@@ -29,6 +29,20 @@
       <a href="contact.html">Contact</a>
    </nav>
 
+   <script>
+    const dropbtn = document.querySelector('.dropbtn');
+    const dropdown = document.getElementById('dropdownContent');
+
+    dropbtn.addEventListener('click', function (e) {
+      e.stopPropagation();
+      dropdown.style.display = dropdown.style.display === 'block' ? 'none' : 'block';
+    });
+
+    document.addEventListener('click', function () {
+      dropdown.style.display = 'none';
+    });
+  </script>
+
    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-3445718473291195"
      crossorigin="anonymous"></script>
 <!-- home below brand -->
