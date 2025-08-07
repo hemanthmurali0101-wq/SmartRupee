@@ -128,7 +128,7 @@ h {
   margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 10px auto;
+  margin: 20px auto;
   width: 700px;  
 }
 p1{
@@ -136,7 +136,7 @@ p1{
   font-weight: 400;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 0px auto;
+  margin: 20px auto;
   width: 700px;  
 }
 
@@ -144,14 +144,5 @@ p1{
   background: #f9f9f9;
   justify-content: center;
   margin: 10px auto;
-  width: 700px;  
-}
-
-.p2{
-  align-items: center;
-  text-align: left;
-  margin-bottom: 15px;
-  margin-top: 15px;
-  margin: 25px auto;
   width: 700px;  
 }
