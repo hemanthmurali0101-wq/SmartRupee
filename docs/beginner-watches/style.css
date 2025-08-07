@@ -124,10 +124,9 @@ p {
 h {
   font-size: 2em;
   font-weight: 400;
-  margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 0px auto;
+  margin: 15px auto;
   width: 700px;  
   padding: 20px;
   text-align: left;
