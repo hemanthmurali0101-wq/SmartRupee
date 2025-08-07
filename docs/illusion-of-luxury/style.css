@@ -75,51 +75,6 @@ nav a, .dropbtn {
       background-color: #3b4a21;
     }
  
-.features {
-      display: flex;
-      background: #f9f9f9;
-      justify-content: center;
-    }
-.feature {
-      width: 1200px;
-      display: flex;
-      align-items: center;
-      background-color: #f1ffc9;
-      padding: 20px;
-      margin-bottom: 10px;
-      border-radius: 10px;
-      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
-    }
-.feature img {
-        width: 200px;
-        height: 200px;
-        border-radius: 8px;
-        margin-right: 20px;
-        align-items: left;
-        justify-content: left;
-        }
-.feature-text {
-  margin-left: 50px;
-  align-items: center;
-  font-family: 'Courier New', Courier, monospace;
-  justify-content: right;
-}
-
-.feature-text h2{
-  color: #182b0aff;
-  text-align: center;
-  font-family: 'Merriweather', serif;
-  font-weight: 200;
-  font-size: 38px;
-  text-align: center;
-}
-
-.feature-link {
-  text-decoration: none;
-  color: inherit;
-  display: block;
-}
-
  footer {
       background: #182b0aff;
       font-family: 'Courier New', Courier, monospace;
