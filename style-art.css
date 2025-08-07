@@ -17,7 +17,6 @@ nav {
   justify-content: space-between;
   padding: 10px 20px;
   gap: 20px;
-  z-index: 1000; /* stays above all content */
     }
 
 
