@@ -77,6 +77,7 @@ nav a, .dropbtn {
  footer {
       background: #182b0aff;
       font-family: 'Courier New', Courier, monospace;
+      justify-content: left;
       color: white;
       padding: 0px;
       margin: 0px auto;
