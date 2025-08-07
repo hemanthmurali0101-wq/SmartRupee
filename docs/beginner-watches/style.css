@@ -128,7 +128,7 @@ h {
   margin-bottom: 15px;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 20px auto;
+  margin: 0px auto;
   width: 700px;  
   padding: 20px;
 }
@@ -137,8 +137,9 @@ p1{
   font-weight: 400;
   color: #182b0aff;
   font-family: 'Merriweather', serif;
-  margin: 20px auto;
+  margin: 0px auto;
   width: 700px;  
+  padding: 10px;
 }
 
 .watch-content{
