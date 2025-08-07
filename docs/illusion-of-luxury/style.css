@@ -12,6 +12,7 @@ body {
   justify-content: center;
   align-items:center;
   margin: 0 auto;
+  width: 1000px;
 }
 
 .hero h1 {
