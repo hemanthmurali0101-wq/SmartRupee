@@ -24,6 +24,7 @@ nav {
     }
 
 nav a, .dropbtn {
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
       color: white;
       font-weight: bold;
       text-decoration: none;
